@@ -16,7 +16,7 @@ Schritt für Schritt erklären wie man den Fehler auslösen kann:
 2. Klicke da un da
 3. irgendwas
 
-**Was sollte eigentlioch passoeren**
+**Was sollte eigentlich passoeren**
 Kurze beschreibung wie die die Aktion ohne Fehler aussehen sollte.
 
 **Screenshots**
